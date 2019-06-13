@@ -23,3 +23,11 @@
 }
 
 /* Positioning Classes */
+
+#featured {
+  column-span: 2;
+}
+
+#archive {
+  column-span: 1;
+}
