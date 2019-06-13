@@ -28,6 +28,10 @@
   column-count: 3;
 }
 
+#featured-block #featured figure img {
+  max-width: 100%;
+}
+
 #featured {
   column-span: 2;
 }
