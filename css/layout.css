@@ -9,10 +9,6 @@
   -moz-box-sizing: border-box;
 }
 
-body {
-  column-count: 12;
-}
-
 .clearfix:after {
   content: ".";
   display: block;
