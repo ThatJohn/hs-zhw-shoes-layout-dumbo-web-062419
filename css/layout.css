@@ -38,9 +38,9 @@
 }
 
 #deals .shadow {
-  width: 306px;
+  width: 316px;
   float: left;
-  margin-left: 20px;
+  margin-left: 10px;
 }
 
 #deals .shadow:first-of-type {
