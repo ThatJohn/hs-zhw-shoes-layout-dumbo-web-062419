@@ -23,14 +23,3 @@
 }
 
 /* Positioning Classes */
-.section-container {
-  column-count: 3;
-}
-
-#featured-brands {
-  columns: 2;
-}
-
-#archive-list {
-  columns: 1;
-}
