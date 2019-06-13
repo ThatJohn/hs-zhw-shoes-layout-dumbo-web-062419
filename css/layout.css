@@ -29,7 +29,7 @@
 }
 
 #featured-block #featured figure img {
-  max-width: 100%;
+  min-width: 100%;
 }
 
 #featured {
