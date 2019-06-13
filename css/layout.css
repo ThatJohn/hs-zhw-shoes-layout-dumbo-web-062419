@@ -24,9 +24,9 @@
 
 /* Positioning Classes */
 
-/* #featured-block {
+#featured-block {
   column-count: 3;
-} */
+}
 
 #featured {
   column-span: 2;
