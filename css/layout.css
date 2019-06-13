@@ -25,3 +25,6 @@
 /* Positioning Classes */
 
 
+.shadow {
+  column-count: 3;
+}
