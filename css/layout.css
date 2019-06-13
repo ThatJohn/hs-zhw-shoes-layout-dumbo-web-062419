@@ -29,14 +29,14 @@
 }
 
 #archive {
-  width: 25%;
+  width: 33%;
   float: right;
 }
 
 #deals .shadow {
   width: 33%;
   float: left;
-  margin-left: 1%;
+  margin-left: 5;
 }
 
 #deals .shadow:first-of-type {
