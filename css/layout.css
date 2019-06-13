@@ -38,3 +38,7 @@
   float: left;
   margin-left: 5%;
 }
+
+#deals .shadow:first-of-type {
+  margin-left: 0;
+}
