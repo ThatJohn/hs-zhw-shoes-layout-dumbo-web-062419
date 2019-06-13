@@ -32,3 +32,8 @@
   width: 33%;
   float: right;
 }
+
+#deals .shadow {
+  width: 33%;
+  float: left;
+}
