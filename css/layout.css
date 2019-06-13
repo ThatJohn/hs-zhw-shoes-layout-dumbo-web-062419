@@ -33,6 +33,10 @@
   float: right;
 }
 
+#deals {
+  margin-top: 20px;
+}
+
 #deals .shadow {
   width: 31%;
   float: left;
