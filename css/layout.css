@@ -25,11 +25,7 @@
 /* Positioning Classes */
 
 #featured-block {
-  column-count: 3;
-}
-
-#featured-block #featured figure img {
-  min-width: 100%;
+  columns: 3;
 }
 
 #featured {
