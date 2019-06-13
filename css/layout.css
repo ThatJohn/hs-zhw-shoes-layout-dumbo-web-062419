@@ -23,13 +23,8 @@
 }
 
 /* Positioning Classes */
-
-#featured-block {
-  columns: 3;
-}
-
 #featured {
-  column-span: 2;
+  width:60%;
 }
 
 #archive {
