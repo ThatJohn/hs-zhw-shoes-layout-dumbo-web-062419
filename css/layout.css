@@ -36,7 +36,7 @@
 #deals .shadow {
   width: 33%;
   float: left;
-  margin-left: 10px;
+  margin-left: 1px;
 }
 
 #deals .shadow:first-of-type {
