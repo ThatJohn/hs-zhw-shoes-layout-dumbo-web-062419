@@ -29,9 +29,9 @@
 }
 
 #featured {
-  columns: 2;
+  column-span: 2;
 }
 
 #archive {
-  columns: 1;
+  column-span: 1;
 }
